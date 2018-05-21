@@ -4,4 +4,4 @@ On a simulated 2D board creatures, monsters, mushrooms and strawberries are all 
 
 From generation to generation a creature learns what are the better actions to take and what are the worse actions to take using a genetic algorithm. Chromosomes from some of the smartest parents are passed down to the creatures of the next generation. That way creatures learn and evolve so that they can survive better than the previous generation. And that is the Game of Life. 
 
-I used Java and did the graphics in Swing. I used Intellij as my IDE.  
+I used Java and did the graphics in Swing. I used Intellij as my IDE.  Recently updated with complete JavaDocs
